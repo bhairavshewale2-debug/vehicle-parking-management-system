@@ -43,6 +43,27 @@ A web-based Vehicle Parking Management System developed using PHP and MySQL to m
   
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](images/home.png)
+
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 🅿 Slots
+![Slots](images/slots.png)
+
+### 🚗 Add Vehicle Page
+![Add Vehicle](images/add_vehicle.png)
+
+### 📋 Records Page
+![Records](images/records.png)
+
+
+---
+
+
 ## 🚀 How to Run
 
 1. Install XAMPP / WAMP  
