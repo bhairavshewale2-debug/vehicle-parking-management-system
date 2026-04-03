@@ -50,3 +50,34 @@ A web-based Vehicle Parking Management System developed using PHP and MySQL to m
 3. Import database (`vehicle_db`) in phpMyAdmin  
 4. Start Apache & MySQL  
 5. Open browser:  
+
+
+---
+
+## 🎥 Demo
+
+This project demonstrates real-time parking management including slot allocation, billing, and reporting.
+
+---
+
+## 📁 Project Structure
+
+- index.php → Home page  
+- vehicle.php → Add vehicle  
+- insert.php → Insert data  
+- view.php → View records  
+- release.php → Exit vehicle & calculate charges  
+- receipt.php → Generate receipt  
+- report.php → Reports  
+- search.php → Search system  
+- db_config.php → Database connection  
+
+---
+
+## 🧠 What I Learned
+
+- PHP & MySQL integration  
+- CRUD operations  
+- Real-time data handling  
+- Backend logic implementation  
+- UI design using CSS  
