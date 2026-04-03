@@ -54,7 +54,7 @@ A web-based Vehicle Parking Management System developed using PHP and MySQL to m
 ### 🅿 Slots
 ![Slots](images/slots.png)
 
-### 🚗 Add Vehicle Page
+### 🚗 Vehicle Page
 ![Add Vehicle](images/add_vehicle.png)
 
 ### 📋 Records Page
